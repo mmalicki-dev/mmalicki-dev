@@ -24,6 +24,8 @@ design to deployment.
   — Personal finance manager built with React & Node.js
 - [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
   — Recipe search application
+- [BPSTrondheimAS](https://github.com/mmalicki-dev/bpstrondheimas)
+  — Website for fictional Bygg og Pro Service Trodheim AS 
 
 ## Contact
 
