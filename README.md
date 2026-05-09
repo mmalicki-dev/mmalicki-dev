@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mateusz 👋
 
-<!--
-**mmalicki-dev/mmalicki-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Full Stack Developer based in Norway
 
-Here are some ideas to get you started:
+I build web applications for businesses using
+React, Node.js and TypeScript — from database
+design to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript · TypeScript
+
+**Frontend:** React · TypeScript · Redux/RTK
+
+**Backend:** Node.js · Express · REST API
+
+**Database:** MongoDB · mongoose
+
+**DevOps:** Docker · GitHub Actions · Hetzner VPS
+
+## 🚀 Projects
+
+- [my-simple-wallet](https://github.com/mmalicki-dev/my-simple-wallet)
+  — Personal finance manager built with React & Node.js
+- [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
+  — Recipe search application
+
+## 📫 Contact
+
+- 🌐 [mm-tech-dev.no](https://mm-tech-dev.no) (coming soon)
+- 💼 [LinkedIn](https://linkedin.com/in/mm-tech-dev)
+- ✉️ mm.tech.dev@proton.me
+
+---
+
+*Available for freelance projects in Norway and remotely*
