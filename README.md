@@ -20,15 +20,15 @@ design to deployment.
 
 ## Projects
 
-- Webside: [Ultimate Wallet](https://wallet.mm-tech-dev.no)<br>
+- Webside: [Ultimate Wallet](https://wallet.mm-tech-dev.no) — Personal finance manager built with React & Node.js<br>
   [Github - Ultimate Wallet](https://github.com/mmalicki-dev/ultimate-wallet)<br>
-  — Personal finance manager built with React & Node.js
-- Webside: [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)<br>
+  
+- Webside: [TemptateMe](https://github.com/mmalicki-dev/TemptateMe) — Recipe search application<br>
   [Github - TemptateMe](https://github.com/mmalicki-dev/TemptateMe)<br>
-  — Recipe search application
-- Webside: [Trondheim Bygg Service AS](https://trondheimbyggserviceas.mateusz-malicki96.workers.dev/)<br>
+  
+- Webside: [Trondheim Bygg Service AS](https://trondheimbyggserviceas.mateusz-malicki96.workers.dev/) — Website for fictional Trondheim Bygg Service AS<br>
   [GitHub - Trondheim Bygg Service AS](https://github.com/mmalicki-dev/trondheimbyggserviceas)<br>
-  — Website for fictional Trondheim Bygg Service AS
+  
 
 ## Contact
 
