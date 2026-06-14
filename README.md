@@ -21,13 +21,13 @@ design to deployment.
 ## Projects
 
 - Webside: [Ultimate Wallet](https://wallet.mm-tech-dev.no)<br>
-  [Github - Ultimate Wallet](https://github.com/mmalicki-dev/ultimate-wallet)
+  [Github - Ultimate Wallet](https://github.com/mmalicki-dev/ultimate-wallet)<br>
   — Personal finance manager built with React & Node.js
-- Webside: [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
-  [Github - TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
+- Webside: [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)<br>
+  [Github - TemptateMe](https://github.com/mmalicki-dev/TemptateMe)<br>
   — Recipe search application
-- Webside: [Trondheim Bygg Service AS](https://trondheimbyggserviceas.mateusz-malicki96.workers.dev/)
-  [GitHub - Trondheim Bygg Service AS](https://github.com/mmalicki-dev/trondheimbyggserviceas)
+- Webside: [Trondheim Bygg Service AS](https://trondheimbyggserviceas.mateusz-malicki96.workers.dev/)<br>
+  [GitHub - Trondheim Bygg Service AS](https://github.com/mmalicki-dev/trondheimbyggserviceas)<br>
   — Website for fictional Trondheim Bygg Service AS
 
 ## Contact
