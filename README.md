@@ -20,7 +20,7 @@ design to deployment.
 
 ## Projects
 
-- Webside: [Ultimate Wallet](https://wallet.mm-tech-dev.no)
+- Webside: [Ultimate Wallet](https://wallet.mm-tech-dev.no)<br>
   [Github - Ultimate Wallet](https://github.com/mmalicki-dev/ultimate-wallet)
   — Personal finance manager built with React & Node.js
 - Webside: [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
