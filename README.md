@@ -20,16 +20,19 @@ design to deployment.
 
 ## Projects
 
-- [my-simple-wallet](https://github.com/mmalicki-dev/my-simple-wallet)
+- Webside: [Ultimate Wallet](https://wallet.mm-tech-dev.no)
+  [Github - Ultimate Wallet](https://github.com/mmalicki-dev/ultimate-wallet)
   — Personal finance manager built with React & Node.js
-- [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
+- Webside: [TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
+  [Github - TemptateMe](https://github.com/mmalicki-dev/TemptateMe)
   — Recipe search application
-- [BPSTrondheimAS](https://github.com/mmalicki-dev/bpstrondheimas)
-  — Website for fictional Bygg og Pro Service Trodheim AS 
+- Webside: [Trondheim Bygg Service AS](https://trondheimbyggserviceas.mateusz-malicki96.workers.dev/)
+  [GitHub - Trondheim Bygg Service AS](https://github.com/mmalicki-dev/trondheimbyggserviceas)
+  — Website for fictional Trondheim Bygg Service AS
 
 ## Contact
 
-- Webside: [mm-tech-dev.no](https://mm-tech-dev.no) (coming soon)
+- Webside: [mm-tech-dev.no](https://mm-tech-dev.no)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mm-tech-dev)
 - Email: mm.tech.dev@proton.me
 
